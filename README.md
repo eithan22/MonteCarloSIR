@@ -50,7 +50,6 @@ Simulación completa (1000×1000, 365 días, máquina de 16 núcleos):
 | 4 | 3,420 | 4.43× |
 | 8 | 2,555 | 5.93× |
 
-![Gráfica de speed-up](Resultados/speedup_graph.png)
 
 ![Animación secuencial vs. paralelo](Resultados/sir_comparison.gif)
 
