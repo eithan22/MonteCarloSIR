@@ -4,17 +4,6 @@ Simulación de una epidemia sobre una grilla de 1000×1000 personas (1,000,000 d
 
 **Autor:** Eithan — Matrícula 2024-1869 — ITLA
 
-## Estructura
-MonteCarloSIR/
-├── Simulador/
-│ ├── SequentialSim/ -> Motor secuencial
-│ ├── ParallelSim/ -> Motor paralelo + benchmark de scaling
-│ ├── EstadoPersona.cs, Grilla.cs, ParametrosSimulacion.cs,
-│ │ EstadisticasDiarias.cs, RandomDeterminista.cs (compartidos)
-│ └── Program.cs
-├── Visualization/ -> Scripts Python (gráfica + animación)
-├── Resultados/ -> CSV, gráfica de speed-up, animación
-└── informe.md
 
 
 ## Requisitos
